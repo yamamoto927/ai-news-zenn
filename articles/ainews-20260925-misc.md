@@ -1,5 +1,5 @@
 ---
-title: "生成AIニュース 2026/09/25 その他まとめ：Gemini 4が事後学習段階に、Lovable年換算売上6億ドル突破、MIXIのAI音声企画見合わせ"
+title: "生成AIニュース 2026/09/25 その他まとめ：Gemini 4、Lovable売上6億ドル、MIXI AI音声見合わせ"
 emoji: "🗞️"
 type: "idea"
 topics: ["ai", "生成ai", "llm", "news"]
